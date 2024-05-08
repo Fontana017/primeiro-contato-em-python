@@ -1,0 +1,11 @@
+media = 0.0
+
+notaUm = float (input('digite a primeira nota'))
+notaDois = float (input('digite a segunda nota'))
+notaTres = float (input('digite a terceira nota'))
+notaQuatro = float (input('digite a quarta nota '))
+
+media = (notaUm + notaDois + notaTres + notaQuatro)/4
+
+print ('o valor da védia é', media)
+input ('pressione enter para sair...')
